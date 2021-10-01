@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conceito_While/1.0.0": {
+        "runtime": {
+          "Conceito_While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conceito_While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

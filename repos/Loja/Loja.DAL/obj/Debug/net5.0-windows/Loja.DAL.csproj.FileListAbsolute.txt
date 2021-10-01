@@ -1,0 +1,15 @@
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\bin\Debug\net5.0-windows\Loja.DAL.deps.json
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\bin\Debug\net5.0-windows\Loja.DAL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\bin\Debug\net5.0-windows\ref\Loja.DAL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\bin\Debug\net5.0-windows\Loja.DAL.pdb
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\bin\Debug\net5.0-windows\Loja.DTO.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\bin\Debug\net5.0-windows\Loja.DTO.pdb
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.csproj.CopyComplete
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\ref\Loja.DAL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DAL\obj\Debug\net5.0-windows\Loja.DAL.pdb

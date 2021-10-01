@@ -1,0 +1,17 @@
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.BLL.deps.json
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.BLL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\ref\Loja.BLL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.BLL.pdb
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.DAL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.DTO.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.DAL.pdb
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\bin\Debug\net5.0-windows\Loja.DTO.pdb
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.csproj.CopyComplete
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\ref\Loja.BLL.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.BLL\obj\Debug\net5.0-windows\Loja.BLL.pdb

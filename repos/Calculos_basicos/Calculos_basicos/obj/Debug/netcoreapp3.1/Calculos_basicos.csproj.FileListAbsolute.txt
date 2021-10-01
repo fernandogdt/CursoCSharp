@@ -1,0 +1,15 @@
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.exe
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.deps.json
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.runtimeconfig.json
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.runtimeconfig.dev.json
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.dll
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.pdb
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.Form1.resources
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.csproj.GenerateResource.cache
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.dll
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.pdb
+C:\Users\Elton Fernando\source\repos\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.genruntimeconfig.cache

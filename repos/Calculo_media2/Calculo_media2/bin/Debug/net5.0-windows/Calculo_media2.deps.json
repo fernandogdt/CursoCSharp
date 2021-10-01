@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculo_media2/1.0.0": {
+        "runtime": {
+          "Calculo_media2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_media2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

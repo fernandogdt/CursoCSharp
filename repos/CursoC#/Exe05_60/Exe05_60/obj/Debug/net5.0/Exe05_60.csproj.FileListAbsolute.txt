@@ -1,0 +1,16 @@
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\Exe05_60.exe
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\Exe05_60.deps.json
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\Exe05_60.runtimeconfig.json
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\Exe05_60.runtimeconfig.dev.json
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\Exe05_60.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\ref\Exe05_60.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\bin\Debug\net5.0\Exe05_60.pdb
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\ref\Exe05_60.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.pdb
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe05_60\Exe05_60\obj\Debug\net5.0\Exe05_60.genruntimeconfig.cache

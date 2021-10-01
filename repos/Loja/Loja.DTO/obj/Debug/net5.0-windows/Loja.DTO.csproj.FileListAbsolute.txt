@@ -1,0 +1,12 @@
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\bin\Debug\net5.0-windows\Loja.DTO.deps.json
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\bin\Debug\net5.0-windows\Loja.DTO.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\bin\Debug\net5.0-windows\ref\Loja.DTO.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\bin\Debug\net5.0-windows\Loja.DTO.pdb
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\ref\Loja.DTO.dll
+C:\Users\Elton Fernando\source\repos\Loja\Loja.DTO\obj\Debug\net5.0-windows\Loja.DTO.pdb
