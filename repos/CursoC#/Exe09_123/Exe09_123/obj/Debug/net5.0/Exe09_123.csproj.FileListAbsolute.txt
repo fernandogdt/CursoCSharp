@@ -1,0 +1,16 @@
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\Exe09_123.exe
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\Exe09_123.deps.json
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\Exe09_123.runtimeconfig.json
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\Exe09_123.runtimeconfig.dev.json
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\Exe09_123.dll
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\ref\Exe09_123.dll
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\bin\Debug\net5.0\Exe09_123.pdb
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.dll
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\ref\Exe09_123.dll
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.pdb
+C:\Users\Elton Fernando\source\repos\Exe09_123\Exe09_123\obj\Debug\net5.0\Exe09_123.genruntimeconfig.cache
