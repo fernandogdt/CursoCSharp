@@ -1,0 +1,16 @@
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\Exe10_137.exe
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\Exe10_137.deps.json
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\Exe10_137.runtimeconfig.json
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\Exe10_137.runtimeconfig.dev.json
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\Exe10_137.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\ref\Exe10_137.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\bin\Debug\net5.0\Exe10_137.pdb
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.csprojAssemblyReference.cache
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.AssemblyInfoInputs.cache
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.AssemblyInfo.cs
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.csproj.CoreCompileInputs.cache
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\ref\Exe10_137.dll
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.pdb
+C:\Users\Elton Fernando\source\repos\CursoC#\Exe10_137\Exe10_137\obj\Debug\net5.0\Exe10_137.genruntimeconfig.cache
