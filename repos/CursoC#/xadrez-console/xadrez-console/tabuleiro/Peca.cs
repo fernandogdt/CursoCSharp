@@ -18,12 +18,12 @@ namespace tabuleiro
             this.qteMovimentos = 0;
         }
 
-        public void incremetarQteMovimentos()
+        public void incrementarQteMovimentos()
         {
             qteMovimentos++;
         }
 
-        public void decremetarQteMovimentos()
+        public void decrementarQteMovimentos()
         {
             qteMovimentos--;
         }
